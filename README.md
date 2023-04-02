@@ -14,4 +14,4 @@ Feel free to explore the following projects/coursework below to get a better sen
 
 * 📝 [Publications](https://github.com/claireboyd/publications) (Aug 2018-Present): This repository has a list of my recent publications from my time as a researcher at the Urban Institute's [Office of Race and Equity Research](https://www.urban.org/policy-centers/office-race-and-equity-research).
 
-For more information about any of the above, please feel free to explore my [current resume](https://github.com/claireboyd/claireboyd/blob/main/ClaireBoyd_Resume_Apr2023_Tech_OnePage.pdf), reach out via email [email](mailto:claire.k.boyd@gmail.com) or connect with me on [LinkedIn](linkedin.com/in/claireboyd/). Looking forward to connecting!
+For more information about any of the above, please feel free to explore my [current resume](https://github.com/claireboyd/claireboyd/blob/main/resumes/ClaireBoyd_Resume_Apr2023_Tech_OnePage.pdf), reach out via email [email](mailto:claire.k.boyd@gmail.com) or connect with me on [LinkedIn](linkedin.com/in/claireboyd/). Looking forward to connecting!
