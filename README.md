@@ -10,4 +10,4 @@ Feel free to explore the following projects/coursework below to get a better sen
 
 * 📓 [CAPP Coursework](https://github.com/claireboyd/capp_coursework) (Aug 2022-Present): This repository gives a better sense of the programming assignments that I've completed through my coursework to-date that showcase my technical abilities. My code for each assignment listed is available upon request.
 
-For more information about my techinical experience or former work as as a Researcher at the Urban Institute, please feel free to explore my [current resume](), reach out via email [email](mailto:claire.k.boyd@gmail.com) or connect with me on [LinkedIn](linkedin.com/in/claireboyd/).
+For more information about my techinical experience or former work as as a Researcher at the Urban Institute, please feel free to explore my [current resume](https://github.com/claireboyd/claireboyd/blob/main/ClaireBoyd_Resume_Apr2023_Tech_OnePage.pdf), reach out via email [email](mailto:claire.k.boyd@gmail.com) or connect with me on [LinkedIn](linkedin.com/in/claireboyd/).
