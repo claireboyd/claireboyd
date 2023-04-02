@@ -2,7 +2,7 @@
 
 My name is Claire Boyd and I am an emerging technologist pursuing a master’s in computer science looking to gain mission-driven, data engineering experience. I have a strong foundation in several programming languages, including Python, RStudio, SQL, and HTML/CSS, as well as experience with software like Visual Studio Code, and Tableau Public.
 
-![Claire's GitHub stats](https://github-readme-stats.vercel.app/api?username=claireboyd&show_icons=true&theme=transparent) [![GitHub Streak](https://streak-stats.demolab.com?user=claireboyd&hide_border=true&border_radius=3.5&mode=weekly)](https://git.io/streak-stats)
+![Claire's GitHub stats](https://github-readme-stats.vercel.app/api?username=claireboyd&show_icons=true&theme=transparent) [![GitHub Streak](https://streak-stats.demolab.com?user=claireboyd&border_radius=0.5)](https://git.io/streak-stats)
 
 Feel free to explore the following projects/coursework below to get a better sense of my skills and interests: 
 
