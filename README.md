@@ -6,6 +6,8 @@ My name is Claire Boyd and I am an emerging technologist pursuing a master’s i
 
 Feel free to explore the following projects/coursework below to get a better sense of my skills and interests: 
 
+* 🩻 [Predicting Pneumonia using Chest X-Ray Images](https://github.com/claireboyd/silent_p) (May 2023): Working alongside three classmates, we used LeNet and Logistic Regression to predict pneumonia using chest X-Ray images with 99.4% recall accuracy, after implementing different image transformations in pytorch!
+
 * 📈 [COVID-19 Online: How people interacted with government websites during the pandemic](https://github.com/claireboyd/covid19_online) (March 2023): Working alongside three classmates, we built a complete data pipeline (from collection to visualization) to explore web traffic to HHS websites during the pandemic.
 
 * 📖 [Scraper for Chicago Maps Archive](https://github.com/claireboyd/chicagomaps_scraper) (Feb 2023): In my role as digialization specialist for the University of Chicago Library System Special Collection's Department, I reconfigured data made publicly available by the Chicago History Museum to help process and digitize the maps for public use by University of Chicago Library's Preservation Departments.
