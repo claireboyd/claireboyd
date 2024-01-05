@@ -6,6 +6,8 @@ My name is Claire Boyd and I am an emerging technologist pursuing a master’s i
 
 Feel free to explore the following projects/coursework below to get a better sense of my skills and interests: 
 
+* ☎️ [311 Requests in Chicago](https://github.com/claireboyd/311requests_chicago) (December 2023): Created a simple web app which gives users a summary of the 311 requests in their Chicago neighborhood, built with Lambda Architecture principles using Apache's tech stack (HDFS, Hadoop, Hive, Spark, etc). The cluster that the app was built with is no longer active, so watch the video included to see the app in action!
+
 * 🐀 [Predicting Neighborhood-Level Rat Activity in New York City](https://github.com/claireboyd/predicting_rats_nyc) (September 2023): Created a time series predictive model to forecast the volume of weekly rat-related 311 requests in each neighborhood, informing mitigation strategy for NYC Rat Czar.
 
 * 🏠 [Finding comparable properties with LightGBM](https://github.com/ccao-data/lightsnip) (June 2023): Developed a new feature, the "comparable finder," into the R package lightsnip which enables accurate identification of comparable properties crucial for assessing property values in Cook County. [Read more here](https://ccao-data.github.io/lightsnip/articles/finding-comps.html) for a longer explanation of this project.
