@@ -14,7 +14,7 @@ Feel free to explore the following projects/coursework below to get a better sen
 
 * 🐀 [Predicting Neighborhood-Level Rat Activity in New York City](https://github.com/claireboyd/predicting_rats_nyc) (September 2023): Created a time series predictive model to forecast the volume of weekly rat-related 311 requests in each neighborhood, informing mitigation strategy for NYC Rat Czar.
 
-* 🏠 [Finding comparable properties with LightGBM](https://github.com/ccao-data/lightsnip) (June 2023): Developed a new feature, the "comparable finder," into the R package lightsnip which enables accurate identification of comparable properties crucial for assessing property values in Cook County. [Read more here](https://ccao-data.github.io/lightsnip/articles/finding-comps.html) for a longer explanation of this project.
+* 🏠 [Finding comparable properties with LightGBM](https://github.com/claireboyd/comparable_property_finder) (June 2023): Developed a new feature, the "comparable finder," into the R package lightsnip which enables accurate identification of comparable properties crucial for assessing property values in Cook County. [Read more here](https://ccao-data.github.io/lightsnip/articles/finding-comps.html) for a longer explanation of this project.
 
 * 🩻 [Predicting Pneumonia using Chest X-Ray Images](https://github.com/claireboyd/silent_p) (May 2023): Working alongside three classmates, we used LeNet and Logistic Regression to predict pneumonia using chest X-Ray images with 99.4% recall accuracy, after implementing different image transformations in pytorch!
 
