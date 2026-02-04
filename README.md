@@ -2,8 +2,6 @@
 
 My name is Claire Boyd and I am currently a data scientist with NYC's Department of Finance Property Modeling team, where we assess the value of all residential and commercial properties in the city annually. I graduated in 2024 from [UChicago's Masters in Computational Analysis and Public Policy](https://capp.uchicago.edu/) program. Before that, I was a researcher at the Urban Institute for 4 years, focusing on racial equity analysis and equitable grantmaking practices for foundations and federal funders. 
 
-![Claire's GitHub stats](https://github-readme-stats.vercel.app/api?username=claireboyd&show_icons=true&theme=transparent&rank_icon=github&hide=stars&show=prs_merged_percentage)
-
 Feel free to explore the following projects/coursework below to get a better sense of my skills and interests: 
 
 * 🔧 [Open Source Tool Onboarding @ NYC](https://github.com/nycdepartmentoffinance/onboarding) (Ongoing): Created a series of guides that document the set-up of city machines for open source tools. These hopefully should all be useful for any city employee but they were designed for onboarding new data scientists or analysts at the property modeling team at the NYC Department of Finance (DOF)
