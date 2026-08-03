@@ -12,6 +12,6 @@ Feel free to explore the following projects/coursework below to get a better sen
 
 * 🏠 [Finding comparable properties with LightGBM](https://github.com/claireboyd/comparable_property_finder) (June 2023): Developed a new feature, the "comparable finder," into the R package lightsnip which enables accurate identification of comparable properties crucial for assessing property values in Cook County. [Read more here](https://ccao-data.github.io/lightsnip/articles/finding-comps.html) for a longer explanation of this project.
 
-* 📝 [Publications](https://github.com/claireboyd/publications) (Aug 2018-Present): This repository has a list of my recent publications from my time as a researcher at the Urban Institute's [Office of Race and Equity Research](https://www.urban.org/policy-centers/office-race-and-equity-research).
+* 📝 [Publications](https://github.com/claireboyd/publications) (Aug 2018-2022): This repository has a list of my recent publications from my time as a researcher at the Urban Institute's [Office of Race and Equity Research](https://www.urban.org/policy-centers/office-race-and-equity-research).
 
 For more information about any of the above, please feel free to explore my [current resume](https://github.com/claireboyd/claireboyd/blob/main/resumes/ClaireBoyd_Resume_May2026.pdf), reach out via [email](mailto:boydclaire@finance.nyc.gov) or connect with me on [LinkedIn](https://www.linkedin.com/in/claire-boyd/). Looking forward to connecting!
